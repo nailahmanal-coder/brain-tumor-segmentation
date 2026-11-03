@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.DS_Store
+data/
+*.pt
+*.pth
+*.nii
+*.nii.gz
